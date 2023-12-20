@@ -1,0 +1,13 @@
+.home {
+    text-align: center;
+    
+    padding: 25px;
+}
+
+.bestproduct {
+    padding: 10px;
+    gap: 10px;
+    
+    text-align: center;
+    font-size: 25px;
+}
